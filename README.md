@@ -20,7 +20,7 @@ Noah Engel
   
 <ins>Contact Information</ins>:
   - linkedin.com/in/noahengel
-  - Feel free to connect if you have any mutual interests or experiences!
+  - Feel free to connect if you have any mutual interests or experiences
 
 <!---
 noahgengel/noahgengel is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
